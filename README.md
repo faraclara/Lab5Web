@@ -59,33 +59,44 @@ Operasi dasar aritmatika
 
 ![](images/aritmatika.jpg)
 
+![](images/8%20js.png)
 
 Seleksi kondisi (if..else)
 
 ![](images/ifelse%20js.jpg)
 
-![](images/8%20js.png)
+![](images/9%20js.png)
+
+![](images/10%20js.png)
+
+![](images/11%20js.png)
+
+![](images/12%20js.png)
+
+![](images/13%20js.png)
 
 Penggunaan operator switch untuk seleksi kondisi
 
 
 ![](images/switch%20js.jpg)
 
-![](images/9%20js.png)
 
+![](images/14%20js.png)
+
+![](images/15%20js.png)
 
 ## Pembuatan Form
 Form Input
 
 ![](images/forminput%20js.jpg)
 
-![](images/10%20js.png)
+![](images/17%20js.png)
 
 ## Form Button
 
 ![](images/form%20js.jpg)
 
-![](images/11%20js.png)
+![](images/18%20js.png)
 
 
 ## HTML DOM
