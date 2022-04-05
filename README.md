@@ -18,7 +18,7 @@ Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti ber
 
 hasil 
 
-![](images/1%20first.png)
+![](images/1%20change.png)
 
 ## Javascrip Dasar
 ## Pemakaian Alert sebagai property window
