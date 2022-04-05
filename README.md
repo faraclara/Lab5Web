@@ -96,7 +96,7 @@ Form Input
 
 ![](images/form%20js.jpg)
 
-![](images/18%20js.png)
+
 
 
 ## HTML DOM
@@ -107,13 +107,6 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 ![](images/19%20js.png)
 
 
-![](images/12%20js.png)
-![](images/13%20js.png)
-![](images/14%20js.png)
-![](images/15%20js.png)
-![](images/16%20js.png)
-![](images/17%20js.png)
-![](images/18%20js.png)
 
 
 
