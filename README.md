@@ -11,7 +11,8 @@ Instruksi Praktikum
 2. Buat folder baru dengan nama lab5_javascript.
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
-Langkah-langkah Praktikum
+
+## Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut
 
 ![](images/1%20change.jpg)
