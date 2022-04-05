@@ -94,7 +94,11 @@ Form Input
 
 ## Form Button
 
-![](images/form%20js.jpg)
+
+
+![](images/form.jpg)
+
+![](images/16%20js.png)
 
 
 
@@ -108,7 +112,16 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 
 
-
+Pertanyaan dan Tugas
+1. Buat script untuk melakukan validasi pada isian form.
+Laporan Praktikum
+1. Buatlah repository baru dengan nama Lab5Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta 
+screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
 
 
 
