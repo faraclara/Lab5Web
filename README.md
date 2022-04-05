@@ -16,28 +16,32 @@ Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti ber
 
 ![](images/first%201.jpg)
 
+hasil 
+
 ![](images/1%20first.png)
 
-Javascrip Dasar
-Pemakaian Alert sebagai property window
+## Javascrip Dasar
+## Pemakaian Alert sebagai property window
 
 ![](images/alert%20js.jpg)
 
-images
+hasil
 
 ![](images/2%20second.png)
 
-Pemakaian method dalam objek
+## Pemakaian method dalam objek
 
 ![](images/method%20js.jpg)
 
-images
+hasil
 
 ![](images/3%20js.png)
 
-Pemakaian Prompt
+## Pemakaian Prompt
 
 ![](images/prompt%20js.jpg)
+
+hasil 
 
 ![](images/4%20js.png)
 
@@ -46,24 +50,30 @@ Pemakaian Prompt
 ![](images/6%20js.png)
 
 
-Pembuatan fungsi dan cara pemanggilannya
+## Pembuatan fungsi dan cara pemanggilannya
 
 ![](images/fungsi%20js.jpg)
+
+hasil 
 
 ![](images/7%20js.png)
 
 
 ## Dasar Pemrograman Di Javascript
 
-Operasi dasar aritmatika
+## Operasi dasar aritmatika
 
 ![](images/aritmatika.jpg)
 
+hasil 
+
 ![](images/8%20js.png)
 
-Seleksi kondisi (if..else)
+## Seleksi kondisi (if..else)
 
 ![](images/ifelse%20js.jpg)
+
+hasil 
 
 ![](images/9%20js.png)
 
@@ -75,24 +85,25 @@ Seleksi kondisi (if..else)
 
 ![](images/13%20js.png)
 
-Penggunaan operator switch untuk seleksi kondisi
+## Penggunaan operator switch untuk seleksi kondisi
 
 
 ![](images/switch%20js.jpg)
-
+ 
+ hasil
 
 ![](images/14%20js.png)
 
 ![](images/15%20js.png)
 
 ## Pembuatan Form
-Form Input
+###### Form Input
 
 ![](images/forminput%20js.jpg)
 
 ![](images/17%20js.png)
 
-## Form Button
+###### Form Button
 
 
 
@@ -112,9 +123,10 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 
 
-Pertanyaan dan Tugas
+## Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
-Laporan Praktikum
+
+## Laporan Praktikum
 1. Buatlah repository baru dengan nama Lab5Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
 3. Screenshot setiap perubahannya.
