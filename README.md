@@ -41,19 +41,23 @@ Pemakaian Prompt
 
 ![](images/4%20js.png)
 
+![](images/5%20js.png)
+
+![](images/6%20js.png)
+
+
 Pembuatan fungsi dan cara pemanggilannya
 
 ![](images/fungsi%20js.jpg)
 
-![](images/5%20js.png)
+![](images/7%20js.png)
 
-![](images/6%20js.png)
 
 ## Dasar Pemrograman Di Javascript
 
 Operasi dasar aritmatika
 
-![](images/aritmatika%20js.jpg)
+![](images/aritmatika.jpg)
 
 ![](images/7%20js.png)
 
