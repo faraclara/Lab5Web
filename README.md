@@ -59,7 +59,6 @@ Operasi dasar aritmatika
 
 ![](images/aritmatika.jpg)
 
-![](images/7%20js.png)
 
 Seleksi kondisi (if..else)
 
