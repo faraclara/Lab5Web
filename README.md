@@ -14,11 +14,11 @@ Instruksi Praktikum
 Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut
 
-![](images/first%201.jpg)
+![](images/1%20change.jpg)
 
 hasil 
 
-![](images/1%20change.png)
+![](images/1%20first.png)
 
 ## Javascrip Dasar
 ## Pemakaian Alert sebagai property window
